@@ -108,5 +108,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya4332&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=aditya4332&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya4332&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=aditya4332&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" height="180px"/>
 </p>
+
