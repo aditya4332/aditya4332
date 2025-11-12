@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://github.com/aditya4332/aditya4332/blob/main/ee.png)
+<img src="https://github.com/aditya4332/aditya4332/blob/main/ee.png" alt="Aditya Singh Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
+
 
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate frontend developer from Noida Uttar Pradesh</h3>
