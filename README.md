@@ -3,7 +3,7 @@
 -->
 
 <!-- 🖼️ Banner -->
-<img src="https://github.com/aditya4332/aditya4332/blob/main/ee.png" alt="Aditya Singh Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://github.com/aditya4332/aditya4332/blob/main/banner.png" alt="Aditya Singh Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
 
 <!-- 👋 Intro -->
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
