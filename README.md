@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/aditya4332/aditya4332/blob/main/banner.png" width="100%" style="border-radius:10px" />
+  <img src="https://github.com/aditya4332/aditya4332/blob/main/banner.png" width="50%" style="border-radius:10px" />
 </p>
 
 <h1 align="center">✨ Aditya Singh ✨</h1>
