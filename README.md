@@ -1,7 +1,15 @@
   <!-- Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/aditya4332/aditya4332/blob/main/banner.png" width="100%" style="border-radius:10px" />
-</p>
+</p> -->
+<!-- Compact Banner Section -->
+<div align="center">
+  <img src="https://github.com/aditya4332/aditya4332/blob/main/banner.png" 
+       alt="Aditya Singh Banner" 
+       width="100%" 
+       height="120px" 
+       style="object-fit: cover; border-radius: 8px;" />
+</div>
 
 <h1 align="center">✨ Aditya Singh ✨</h1>
 <h3 align="center">Full-Stack Developer | Problem Solver | Tech Explorer</h3>
